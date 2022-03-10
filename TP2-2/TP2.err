@@ -1,0 +1,5 @@
+Warning[205] C:\USERS\DEVOL\DOCUMENTS\16F876_ASSEMBLY\TP2-2\TP2.ASM 1 : Found directive in column 1. (list)
+Warning[207] C:\USERS\DEVOL\DOCUMENTS\16F876_ASSEMBLY\TP2-2\TP2.ASM 4 : Found label after column 1. (debut)
+Message[302] C:\USERS\DEVOL\DOCUMENTS\16F876_ASSEMBLY\TP2-2\TP2.ASM 10 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\DEVOL\DOCUMENTS\16F876_ASSEMBLY\TP2-2\TP2.ASM 13 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[205] C:\USERS\DEVOL\DOCUMENTS\16F876_ASSEMBLY\TP2-2\TP2.ASM 37 : Found directive in column 1. (END)
