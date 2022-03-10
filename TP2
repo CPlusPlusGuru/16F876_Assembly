@@ -1,0 +1,5 @@
+list p=16f876
+#include<p16f876.inc>
+	org 0x00
+		debut clrw
+			 ; input / output TRISC = 0x00
